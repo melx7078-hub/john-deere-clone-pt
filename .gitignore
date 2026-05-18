@@ -11,3 +11,4 @@ scraped_products.json
 
 pushToGithub*.ts
 gh_push.ts
+gh_push.ts
