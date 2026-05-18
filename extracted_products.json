@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "4fc20630-f2ab-400a-9128-db29ddf55516",
+    "baseCode": "3111DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/vukjhtqwxg/webp/r4k082477_x107_front_right_studio.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/vukjhtqwxg/webp/r4k082477_x107_front_right_studio.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/vukjhtqwxg/webp/r4k082477_x107_front_right_studio.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/vukjhtqwxg/webp/r4k082477_x107_front_right_studio.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/vukjhtqwxg/webp/r4k082477_x107_front_right_studio.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/vukjhtqwxg/webp/r4k082477_x107_front_right_studio.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/vukjhtqwxg/webp/r4k082477_x107_front_right_studio.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/vukjhtqwxg/webp/r4k082477_x107_front_right_studio.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "Campo X107 - Vista Dianteira Direita"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X107",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x107-minitratores-corta-relva-mzexmurn"
+  },
+  {
+    "id": "3075f09c-9aa6-483f-ae02-51506a5baef6",
+    "baseCode": "3141DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/xu4cbhtdh5/webp/r4k082465_x117r_front_right_studio.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/xu4cbhtdh5/webp/r4k082465_x117r_front_right_studio.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/xu4cbhtdh5/webp/r4k082465_x117r_front_right_studio.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/xu4cbhtdh5/webp/r4k082465_x117r_front_right_studio.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/xu4cbhtdh5/webp/r4k082465_x117r_front_right_studio.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/xu4cbhtdh5/webp/r4k082465_x117r_front_right_studio.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/xu4cbhtdh5/webp/r4k082465_x117r_front_right_studio.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/xu4cbhtdh5/webp/r4k082465_x117r_front_right_studio.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "Campo X117R - Vista dianteira direita"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X117R",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x117r-minitratores-corta-relva-mze0murn"
+  },
+  {
+    "id": "be426769-bc53-4f4d-8270-74ab48589745",
+    "baseCode": "3121DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/kbeqijccgr/webp/r4k082466_x127_front_right_studio.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/kbeqijccgr/webp/r4k082466_x127_front_right_studio.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/kbeqijccgr/webp/r4k082466_x127_front_right_studio.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/kbeqijccgr/webp/r4k082466_x127_front_right_studio.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/kbeqijccgr/webp/r4k082466_x127_front_right_studio.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/kbeqijccgr/webp/r4k082466_x127_front_right_studio.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/kbeqijccgr/webp/r4k082466_x127_front_right_studio.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/kbeqijccgr/webp/r4k082466_x127_front_right_studio.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "X127 - Vista dianteira direita"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X127",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x127-minitratores-corta-relva-mzeymurn"
+  },
+  {
+    "id": "0863a399-1858-460b-9b14-6911d53c9555",
+    "baseCode": "3151DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/l4eu2gdcsk/webp/r4k082464_x147r_front_right_studio.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/l4eu2gdcsk/webp/r4k082464_x147r_front_right_studio.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/l4eu2gdcsk/webp/r4k082464_x147r_front_right_studio.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/l4eu2gdcsk/webp/r4k082464_x147r_front_right_studio.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/l4eu2gdcsk/webp/r4k082464_x147r_front_right_studio.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/l4eu2gdcsk/webp/r4k082464_x147r_front_right_studio.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/l4eu2gdcsk/webp/r4k082464_x147r_front_right_studio.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/l4eu2gdcsk/webp/r4k082464_x147r_front_right_studio.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "X147R Vista Dianteira Direita"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X147R",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x147r-minitratores-corta-relva-mze1murn"
+  },
+  {
+    "id": "1a5c16e5-c719-442e-9506-c0d147e7f85a",
+    "baseCode": "3131DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/lmicivn7vn/webp/r4k082479_x167_front_right_studio.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/lmicivn7vn/webp/r4k082479_x167_front_right_studio.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/lmicivn7vn/webp/r4k082479_x167_front_right_studio.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/lmicivn7vn/webp/r4k082479_x167_front_right_studio.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/lmicivn7vn/webp/r4k082479_x167_front_right_studio.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/lmicivn7vn/webp/r4k082479_x167_front_right_studio.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/lmicivn7vn/webp/r4k082479_x167_front_right_studio.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/lmicivn7vn/webp/r4k082479_x167_front_right_studio.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "X167 - Vista dianteira direita"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X167",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x167-minitratores-corta-relva-mzezmurn"
+  },
+  {
+    "id": "ddf96ccb-d9de-4de4-ba53-87f7c458bbd8",
+    "baseCode": "3161DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/ewnroagie3/webp/r4k082453_x167r_front_right_studio.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/ewnroagie3/webp/r4k082453_x167r_front_right_studio.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/ewnroagie3/webp/r4k082453_x167r_front_right_studio.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/ewnroagie3/webp/r4k082453_x167r_front_right_studio.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/ewnroagie3/webp/r4k082453_x167r_front_right_studio.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/ewnroagie3/webp/r4k082453_x167r_front_right_studio.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/ewnroagie3/webp/r4k082453_x167r_front_right_studio.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/ewnroagie3/webp/r4k082453_x167r_front_right_studio.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "X167R Vista Dianteira Direita"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X167R",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x167r-minitratores-corta-relva-mze2murn"
+  },
+  {
+    "id": "6cbcd7e3-0a51-4590-b2cf-2b1b7aadf2dd",
+    "baseCode": "488CDM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/w7rtuankue/webp/r2c003301_LSC_011.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/w7rtuankue/webp/r2c003301_LSC_011.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/w7rtuankue/webp/r2c003301_LSC_011.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/w7rtuankue/webp/r2c003301_LSC_011.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/w7rtuankue/webp/r2c003301_LSC_011.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/w7rtuankue/webp/r2c003301_LSC_011.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/w7rtuankue/webp/r2c003301_LSC_011.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/w7rtuankue/webp/r2c003301_LSC_011.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "Minitratores X350"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X350",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x350-minitratores-corta-relva-ndg4q0rn"
+  },
+  {
+    "id": "2a6f304d-a64c-4d81-b704-0404c43be298",
+    "baseCode": "4896DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/eslnvyvpxm/webp/r2c002827_c1_tech2_LSC.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/eslnvyvpxm/webp/r2c002827_c1_tech2_LSC.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/eslnvyvpxm/webp/r2c002827_c1_tech2_LSC.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/eslnvyvpxm/webp/r2c002827_c1_tech2_LSC.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/eslnvyvpxm/webp/r2c002827_c1_tech2_LSC.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/eslnvyvpxm/webp/r2c002827_c1_tech2_LSC.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/eslnvyvpxm/webp/r2c002827_c1_tech2_LSC.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/eslnvyvpxm/webp/r2c002827_c1_tech2_LSC.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "Trator de grama John Deere X350R com coletor de grama traseiro e plataforma de corte mostrados em uma visualização de estúdio"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X350R",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x350r-minitratores-corta-relva-ndg5nkrn"
+  },
+  {
+    "id": "dc657d0c-b4b3-41fe-93b1-133a1c516e6a",
+    "baseCode": "5204DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/8auwf8vx8s/webp/r2g024827.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/8auwf8vx8s/webp/r2g024827.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/8auwf8vx8s/webp/r2g024827.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/8auwf8vx8s/webp/r2g024827.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/8auwf8vx8s/webp/r2g024827.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/8auwf8vx8s/webp/r2g024827.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/8auwf8vx8s/webp/r2g024827.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/8auwf8vx8s/webp/r2g024827.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "Trator de gramado em verde e amarelo com assento de encosto alto, plataforma do cortador e design compacto, mostrado a partir de um ângulo dianteiro lateral"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X370",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x370-minitratores-corta-relva-ntiwnern"
+  },
+  {
+    "id": "4c09062f-175e-4a14-97ed-f6edb7843995",
+    "baseCode": "521ADM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/h7eklgjhl5/webp/r2c002792_LSC_09.jpeg.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/h7eklgjhl5/webp/r2c002792_LSC_09.jpeg.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/h7eklgjhl5/webp/r2c002792_LSC_09.jpeg.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/h7eklgjhl5/webp/r2c002792_LSC_09.jpeg.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/h7eklgjhl5/webp/r2c002792_LSC_09.jpeg.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/h7eklgjhl5/webp/r2c002792_LSC_09.jpeg.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/h7eklgjhl5/webp/r2c002792_LSC_09.jpeg.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/h7eklgjhl5/webp/r2c002792_LSC_09.jpeg.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "Trator de grama em verde e amarelo com assento de encosto alto e plataforma do cortador, mostrado a partir de um ângulo dianteiro para corte de grama residencial"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X380",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x380-minitratores-corta-relva-ntixqurn"
+  },
+  {
+    "id": "222c4166-def5-4df9-a9be-d10812316055",
+    "baseCode": "5364DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/9yideopnw8/webp/r2C004245_tech3_LSC.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/9yideopnw8/webp/r2C004245_tech3_LSC.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/9yideopnw8/webp/r2C004245_tech3_LSC.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/9yideopnw8/webp/r2C004245_tech3_LSC.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/9yideopnw8/webp/r2C004245_tech3_LSC.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/9yideopnw8/webp/r2C004245_tech3_LSC.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/9yideopnw8/webp/r2C004245_tech3_LSC.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/9yideopnw8/webp/r2C004245_tech3_LSC.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "Trator de grama John Deere X584 com direção nas quatro rodas e plataforma do cortador mostrada a partir de um ângulo dianteiro de três quartos."
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X584",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x584-minitratores-corta-relva-ntm2nern"
+  },
+  {
+    "id": "85e24019-72a6-4444-9078-6eb4d265bb8d",
+    "baseCode": "4869DM",
+    "image": {
+      "breakpoints": [
+        {
+          "name": "lg",
+          "mediaQuery": "1200",
+          "urls": [
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/lbpcjsqrns/webp/r2g024832_LSC_06.jpeg.webp?crop=true&w=1280&h=960&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "1280",
+              "height": "960",
+              "url": "https://johndeere.widen.net/content/lbpcjsqrns/webp/r2g024832_LSC_06.jpeg.webp?crop=true&w=1280&h=960&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "md",
+          "mediaQuery": "900",
+          "urls": [
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/lbpcjsqrns/webp/r2g024832_LSC_06.jpeg.webp?crop=true&w=800&h=600&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "800",
+              "height": "600",
+              "url": "https://johndeere.widen.net/content/lbpcjsqrns/webp/r2g024832_LSC_06.jpeg.webp?crop=true&w=800&h=600&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "sm",
+          "mediaQuery": "600",
+          "urls": [
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/lbpcjsqrns/webp/r2g024832_LSC_06.jpeg.webp?crop=true&w=600&h=450&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "600",
+              "height": "450",
+              "url": "https://johndeere.widen.net/content/lbpcjsqrns/webp/r2g024832_LSC_06.jpeg.webp?crop=true&w=600&h=450&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        },
+        {
+          "name": "xs",
+          "mediaQuery": "0",
+          "urls": [
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/lbpcjsqrns/webp/r2g024832_LSC_06.jpeg.webp?crop=true&w=240&h=180&retina=false&keep=c",
+              "size": "1x"
+            },
+            {
+              "width": "240",
+              "height": "180",
+              "url": "https://johndeere.widen.net/content/lbpcjsqrns/webp/r2g024832_LSC_06.jpeg.webp?crop=true&w=240&h=180&retina=true&keep=c",
+              "size": "2x"
+            }
+          ]
+        }
+      ],
+      "cmPreviewMetadata": "",
+      "altText": "Imagem de estúdio dos Minitratores X590"
+    },
+    "price": {
+      "amount": "",
+      "currencyCode": ""
+    },
+    "textSettings": {
+      "headline": {
+        "text": "X590",
+        "component": "h2",
+        "variant": null
+      },
+      "subHeadline": {
+        "text": "Minitratores Corta-Relva",
+        "component": "h2",
+        "variant": null
+      }
+    },
+    "href": "/pt-pt/produtos-solucoes/cortadores-de-relva/cortadores-de-relva-residenciais/x590-minitratores-corta-relva-ndg2ourn"
+  }
+]

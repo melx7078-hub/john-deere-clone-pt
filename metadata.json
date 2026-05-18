@@ -1,0 +1,8 @@
+{
+  "name": "Deere Clone & Scraper",
+  "description": "Um clone da plataforma John Deere com module de scraping integrado e ferramenta de expotação em massa para Shopify / Google Merchant Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
