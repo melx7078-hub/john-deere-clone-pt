@@ -10,3 +10,4 @@ coverage/
 scraped_products.json
 
 pushToGithub*.ts
+gh_push.ts

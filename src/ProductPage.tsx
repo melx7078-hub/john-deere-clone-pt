@@ -3,6 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { ChevronLeft, Star } from 'lucide-react';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
+import { supabase } from './lib/supabase';
 
 export default function ProductPage() {
   const { id } = useParams();
@@ -11,13 +12,38 @@ export default function ProductPage() {
   const [activeImage, setActiveImage] = useState(0);
 
   useEffect(() => {
-    fetch('/api/products')
-      .then((res) => res.json())
-      .then((data) => {
-        const found = data.find((p: any) => p.id === id);
-        setProduct(found);
-        setLoading(false);
-      });
+    const fetchProduct = async () => {
+      const { data, error } = await supabase
+        .from('products')
+        .select('*')
+        .eq('id', id)
+        .single();
+        
+      if (error || !data) {
+        console.error(error);
+        setProduct(null);
+      } else {
+        setProduct({
+            id: data.id,
+            title: data.title,
+            category: data.category,
+            price: data.price,
+            image: data.image,
+            href: data.href,
+            sku: data.sku,
+            rating: data.rating,
+            reviews: data.reviews,
+            availability: data.availability,
+            longDescription: data.long_description,
+            shortDescription: data.short_description,
+            features: data.features,
+            images: data.images
+        });
+      }
+      setLoading(false);
+    };
+    
+    fetchProduct();
   }, [id]);
 
   if (loading) {

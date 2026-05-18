@@ -1,10 +1,9 @@
 import { useEffect, useState } from 'react';
 import { ProductCard } from './components/ProductCard';
-import { exportToShopifyCSV, exportToGoogleMerchantCSV } from './lib/exportUtils';
-import { Download, Tractor } from 'lucide-react';
 import { Product } from './types';
 import { Navbar } from './components/Navbar';
 import { Footer } from './components/Footer';
+import { supabase } from './lib/supabase';
 
 export default function HomePage() {
   const [products, setProducts] = useState<Product[]>([]);
@@ -13,13 +12,34 @@ export default function HomePage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch('/api/products')
-      .then((res) => res.json())
-      .then((data) => {
-        setProducts(data);
-        setFilteredProducts(data);
-        setLoading(false);
-      });
+    const fetchProducts = async () => {
+      const { data, error } = await supabase.from('products').select('*');
+      if (error) {
+        console.error("Error fetching products:", error);
+      } else if (data) {
+        const mapped = data.map((p: any) => ({
+             id: p.id,
+             title: p.title,
+             category: p.category,
+             price: p.price,
+             image: p.image,
+             href: p.href,
+             sku: p.sku,
+             rating: p.rating,
+             reviews: p.reviews,
+             availability: p.availability,
+             longDescription: p.long_description,
+             shortDescription: p.short_description,
+             features: p.features,
+             images: p.images
+        }));
+        setProducts(mapped);
+        setFilteredProducts(mapped);
+      }
+      setLoading(false);
+    };
+    
+    fetchProducts();
   }, []);
 
   const categories = ['All', ...Array.from(new Set(products.map((p) => p.category))) as string[]];
@@ -53,28 +73,8 @@ export default function HomePage() {
       </header>
 
       <main className="container mx-auto max-w-7xl px-4 py-8 md:py-16 flex-grow">
-        {/* Admin/Export Bar */}
-        <div className="bg-gray-100 p-4 border border-gray-200 rounded-lg mb-12 flex flex-col sm:flex-row justify-between items-center shadow-inner">
-          <div>
-            <h2 className="font-bold text-lg mb-1">Painel Gestão de Produtos</h2>
+        <div className="mb-4 text-right">
             <p className="text-sm text-gray-600">Total de produtos no catálogo: <span className="font-bold text-jd-green text-xl ml-1">{products.length}</span></p>
-          </div>
-          <div className="flex gap-2 mt-4 sm:mt-0">
-            <button 
-              onClick={() => exportToShopifyCSV(products)}
-              className="flex items-center space-x-2 bg-black text-white px-4 py-2 rounded hover:bg-gray-800 transition-colors font-semibold"
-            >
-              <Download className="w-4 h-4" />
-              <span>Shopify CSV</span>
-            </button>
-            <button 
-              onClick={() => exportToGoogleMerchantCSV(products)}
-              className="flex items-center space-x-2 bg-blue-600 text-white px-4 py-2 rounded hover:bg-blue-700 transition-colors font-semibold"
-            >
-              <Download className="w-4 h-4" />
-              <span>Merchant Center CSV</span>
-            </button>
-          </div>
         </div>
 
         {/* Filters */}
